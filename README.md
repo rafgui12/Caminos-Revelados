@@ -13,6 +13,7 @@ Este archivo contiene la informacion de contenido link y uso del repositorio dis
 
     -   Codigo de UNITY
     -   Politicas de uso aplicacion movil
+    -   Lincencia MIT de uso
 
 [**Archivos APK, AAB, OBB de publicacion de la version 1.1.2**](https://drive.google.com/open?id=1gsJVpMf_0U-Ksv3O0dpIkFgOnjokQQ9U)
 
